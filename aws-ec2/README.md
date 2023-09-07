@@ -1,40 +1,11 @@
 <h1 align="center">
-  <img src="./assets/ec2-generator-logo.png" alt="icon" width="200"></img>
+  <img src="../assets/logo/aws-ec2-logo.png" alt="icon" width="200"></img>
   <br>
   <b>AWS EC2 Generator</b>
 </h1>
 
 <p align="center">Automatically create EC2 machine with AWS CLI</p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/QuanBlue/aws-ec2-generator/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/QuanBlue/aws-ec2-generator" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/QuanBlue/aws-ec2-generator" alt="last update" />
-  </a>
-  <a href="https://github.com/QuanBlue/aws-ec2-generator/network/members">
-    <img src="https://img.shields.io/github/forks/QuanBlue/aws-ec2-generator" alt="forks" />
-  </a>
-  <a href="https://github.com/QuanBlue/aws-ec2-generator/stargazers">
-    <img src="https://img.shields.io/github/stars/QuanBlue/aws-ec2-generator" alt="stars" />
-  </a>
-  <a href="https://github.com/QuanBlue/aws-ec2-generator/issues/">
-    <img src="https://img.shields.io/github/issues/QuanBlue/aws-ec2-generator" alt="open issues" />
-  </a>
-  <a href="https://github.com/QuanBlue/aws-ec2-generator/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/QuanBlue/aws-ec2-generator.svg" alt="license" />
-  </a>
-</p>
-
-<p align="center">
-  <b>
-    <a href="https://github.com/QuanBlue/aws-ec2-generator">Documentation</a> •
-    <a href="https://github.com/QuanBlue/aws-ec2-generator/issues/">Report Bug</a> •
-    <a href="https://github.com/QuanBlue/aws-ec2-generator/issues/">Request Feature</a>
-  </b>
-</p>
 <br/>
 <details open>
 <summary><b>Table of Contents</b></summary>
@@ -46,9 +17,7 @@
 - [Usage](#mechanical_arm-usage)
 - [Useful AWS CLI commands](#keyboard-useful-aws-cli-commands)
 - [Roadmap](#world_map-roadmap)
-- [Contributors](#busts_in_silhouette-contributors)
 - [Credits](#sparkles-credits)
-- [License](#scroll-license)
 </details>
 
 # :toolbox: Getting Started
@@ -183,22 +152,10 @@ aws ec2 describe-security-groups --group-ids <security-group-id>
 - [x] Automatically create EC2 instance
 - [x] Automatically terminate EC2 instance and remove key pair, sec group,...
 
-# :busts_in_silhouette: Contributors
-
-<a href="https://github.com/QuanBlue/Linux-Bootstrap/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=QuanBlue/Linux-Bootstrap" />
-</a>
-
-Contributions are always welcome!
-
 # :sparkles: Credits
 
 - [AWS CLI](https://aws.amazon.com/cli/)
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-
-# :scroll: License
-
-Distributed under the MIT License. See <a href="../LICENSE">`LICENSE`</a> for more information.
 
 ---
 
