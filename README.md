@@ -64,8 +64,8 @@ Explore repository to discover automation solutions tailored to your needs:
 
 # :busts_in_silhouette: Contributors
 
-<a href="https://github.com/QuanBlue/Linux-Bootstrap/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=QuanBlue/Linux-Bootstrap" />
+<a href="https://github.com/QuanBlue/tech-automator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=QuanBlue/tech-automator" />
 </a>
 
 Feel free to contribute to our projects, share your insights, or collaborate with fellow automation enthusiasts.
